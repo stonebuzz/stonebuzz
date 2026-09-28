@@ -23,22 +23,6 @@ Based in Paris, I work on the GLPI core and on the plugin ecosystem around it.
 ![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555?style=flat-square&logo=githubactions&logoColor=white)
 
-### Selected projects
-
-| Project | Description |
-| --- | --- |
-| [glpi-project/glpi](https://github.com/glpi-project/glpi) | GLPI core, ITSM and asset management |
-| [pluginsGLPI/fields](https://github.com/pluginsGLPI/fields) | Additional fields for GLPI objects |
-| [glpi-project/glpi-inventory-plugin](https://github.com/glpi-project/glpi-inventory-plugin) | Network discovery, inventory and deployment tasks |
-| [pluginsGLPI/escalade](https://github.com/pluginsGLPI/escalade) | Ticket escalation between groups |
-| [pluginsGLPI/datainjection](https://github.com/pluginsGLPI/datainjection) | CSV import into GLPI |
-| [pluginsGLPI/order](https://github.com/pluginsGLPI/order) | Purchase order management |
-| [pluginsGLPI/tag](https://github.com/pluginsGLPI/tag) | Tagging for GLPI objects |
-| [pluginsGLPI/genericobject](https://github.com/pluginsGLPI/genericobject) | Custom object types |
-| [glpi-project/android-inventory-agent](https://github.com/glpi-project/android-inventory-agent) | Android inventory agent (Java) |
-
-I also contribute to GLPI Network subscription plugins (SSO, SCIM, cloud inventory, dashboards) and to the GLPI mobile app.
-
 ### GitHub activity
 
 ![Metrics](https://raw.githubusercontent.com/stonebuzz/stonebuzz/main/metrics.svg)

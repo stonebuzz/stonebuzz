@@ -24,8 +24,13 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/Paris
           config_display: large
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          commits_authoring: stonebuzz, Stanislas Kita
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_ignored: html, css, scss, shell, dockerfile, makefile
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
